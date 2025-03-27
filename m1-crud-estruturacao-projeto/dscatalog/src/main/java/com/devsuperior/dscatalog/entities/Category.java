@@ -43,5 +43,5 @@ public class Category {
     public int hashCode() {
         return Objects.hashCode(id);
     }
-    
+
 }
